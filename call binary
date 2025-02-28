@@ -1,0 +1,430 @@
+ Jvdroid-main: exec
+public class Main {
+	public static void main(String[] args) {
+		/storage/emulated/0 $ // Jvdroid-main: tool
+ash: can't open '//': Permission denied
+/storage/emulated/0 $ //public class Main {
+sh: //public: not found
+/storage/emulated/0 $ //Agent;[wallet_tool]
+sh: //Agent: not found
+sh: [wallet_tool]: not found
+/storage/emulated/0 $ //(wallet_tool));
+sh: syntax error: unexpected word (expecting ")")
+sh: syntax error: unexpected ")"
+/storage/emulated/0 $ //public static void main(String[] args) { app.safe.global:
+sh: syntax error: unexpected "("
+/storage/emulated/0 $
+.metadata/
+PersistedInstallation.W0RFRkFVTFRd+MTo2OTEzNDg1MTY4OTU6YW5kcm9pZDoxNjY1ZTA0YzU2ZmZhODk0.json
+RPCServer.socket
+apache-maven-3.6.0/
+arch
+ash
+astyle
+awk
+base64
+basename
+bash
+bc
+bin/
+busybox
+bzcat
+bzip2
+cat
+chgrp
+chmod
+chown
+cksum
+clear
+cmp
+conf/
+cp
+crash_dump32
+crash_dump64
+cut
+dalvikvm
+dalvikvm32
+dalvikvm64
+date
+dd
+dexdump
+dexlist
+df
+diff
+dirname
+dos2unix
+du
+editor_state.json
+egrep
+env
+expand
+expr
+fgrep
+find
+frc_1:691348516895:android:1665e04c56ffa894_firebase_activate.json
+generatefid.lock
+grep
+gunzip
+gzip
+head
+id
+jaotc
+jar
+jarsigner
+java
+javac
+javac-ng
+javadoc
+javap
+jcmd
+jconsole
+jdb
+jdeprscan
+jdeps
+jdt.ls-java-project/
+jfr
+jimage
+jinfo
+jjs
+jlink
+jmap
+jmod
+jps
+jrunscript
+jshell
+jstack
+jstat
+jstatd
+keytool
+kill
+killall
+languageserver/
+legal/
+lib/
+linker
+linker64
+linker_asan
+linker_asan64
+ln
+ls
+lsof
+lzcat
+m2-ng.conf
+m2.conf
+md5sum
+mkdir
+mkfifo
+mv
+mvn
+mvn-ng
+mvn-ng-server
+mvn-ng.socket
+mvn.cmd
+mvnDebug
+mvnDebug.cmd
+mvnyjp
+nc
+ng
+nl
+nohup
+oatdump
+pack200
+paste
+patch
+pkill
+printenv
+printf
+pwd
+readlink
+realpath
+release
+rm
+rmdir
+rmic
+rmid
+rmiregistry
+sed
+serialver
+sh
+sha1sum
+sleep
+sort
+split
+stat
+stty
+sync
+tac
+tail
+tar
+tee
+timeout
+touch
+tr
+truncate
+tty
+uname
+unexpand
+unix2dos
+unlink
+unpack200
+unxz
+unzip
+usleep
+wc
+wget
+xargs
+xz
+xzcat
+yes
+zcat
+/storage/emulated/0 $ // Jvdroid-main: [build];
+ash: can't open '//': Permission denied
+/storage/emulated/0 $ //(Agent):
+sh: syntax error: unexpected word (expecting ")")
+sh: syntax error: unexpected ")"
+/storage/emulated/0 $ //
+.aid.bak
+.picker_transcoded/
+.pytest_cache/
+1000000005.bin
+=value.
+APK Extraction MOTO g stylus/
+Alarms/
+AllDocReader/
+Android/
+Audiobooks/
+AutomateAppv1/
+Autonomous Passive Income Agents/
+Camera/
+CxxDroid/
+DCIM/
+Documents/
+Download/
+Files by Google/
+IntrnlStorePrePyAppUninstll.zip
+Keystore
+Movies/
+Mr.Booger/
+Music/
+Notifications/
+Pictures/
+Podcasts/
+Recordings/
+Ringtones/
+_.document
+_.pytest_cache/
+app$.py
+app_jar.java
+astro/
+document%3A1000002304.md
+file%3A%2F%2F%2Fstorage%2Femulated%2F0%2Ftraces%25253Atrace-milanf-S1SDS32.56-53-13-2024-11-11-03-12-19.perfetto-trace.bin
+gitStaticImpermRepo.py
+my-app-10/
+my-app-11/
+my-app-2/
+my-app-3/
+my-app-4/
+my-app-5/
+my-app-6/
+my-app-7/
+my-app-8/
+my-app-9/
+my-app/
+newfile.py
+project 5/
+slaw/
+str
+tonreaderrawdata.py
+value.
+}
+/storage/emulated/0 $ //  (Capri Note App)),
+sh: syntax error: unexpected word (expecting ")")
+/storage/emulated/0 $ //-wallet assistant agent
+sh: //-wallet: not found
+/storage/emulated/0 $ //-name-("capri"),
+sh: syntax error: unexpected word (expecting ")")
+sh: syntax error: unexpected ")"
+/storage/emulated/0 $
+.metadata/
+PersistedInstallation.W0RFRkFVTFRd+MTo2OTEzNDg1MTY4OTU6YW5kcm9pZDoxNjY1ZTA0YzU2ZmZhODk0.json
+RPCServer.socket
+apache-maven-3.6.0/
+arch
+ash
+astyle
+awk
+base64
+basename
+bash
+bc
+bin/
+busybox
+bzcat
+bzip2
+cat
+chgrp
+chmod
+chown
+cksum
+clear
+cmp
+conf/
+cp
+crash_dump32
+crash_dump64
+cut
+dalvikvm
+dalvikvm32
+dalvikvm64
+date
+dd
+dexdump
+dexlist
+df
+diff
+dirname
+dos2unix
+du
+editor_state.json
+egrep
+env
+expand
+expr
+fgrep
+find
+frc_1:691348516895:android:1665e04c56ffa894_firebase_activate.json
+generatefid.lock
+grep
+gunzip
+gzip
+head
+id
+jaotc
+jar
+jarsigner
+java
+javac
+javac-ng
+javadoc
+javap
+jcmd
+jconsole
+jdb
+jdeprscan
+jdeps
+jdt.ls-java-project/
+jfr
+jimage
+jinfo
+jjs
+jlink
+jmap
+jmod
+jps
+jrunscript
+jshell
+jstack
+jstat
+jstatd
+keytool
+kill
+killall
+languageserver/
+legal/
+lib/
+linker
+linker64
+linker_asan
+linker_asan64
+ln
+ls
+lsof
+lzcat
+m2-ng.conf
+m2.conf
+md5sum
+mkdir
+mkfifo
+mv
+mvn
+mvn-ng
+mvn-ng-server
+mvn-ng.socket
+mvn.cmd
+mvnDebug
+mvnDebug.cmd
+mvnyjp
+nc
+ng
+nl
+nohup
+oatdump
+pack200
+paste
+patch
+pkill
+printenv
+printf
+pwd
+readlink
+realpath
+release
+rm
+rmdir
+rmic
+rmid
+rmiregistry
+sed
+serialver
+sh
+sha1sum
+sleep
+sort
+split
+stat
+stty
+sync
+tac
+tail
+tar
+tee
+timeout
+touch
+tr
+truncate
+tty
+uname
+unexpand
+unix2dos
+unlink
+unpack200
+unxz
+unzip
+usleep
+wc
+wget
+xargs
+xz
+xzcat
+yes
+zcat
+/storage/emulated/0 $ //Use:
+sh/storage/emulated/0 $ unzip
+BusyBox v1.31.0 (2021-07-12 02:32:24 PDT) multi-call binary.
+
+Usage: unzip [-lnojpq] FILE[.zip] [FILE]... [-x FILE...] [-d DIR]
+
+Extract FILEs from ZIP archive
+
+        -l      List contents (with -q for short form)
+        -n      Never overwrite files (default: ask)
+        -o      Overwrite
+        -j      Do not restore paths
+        -p      Print to stdout
+        -q      Quiet
+        -x FILE Exclude FILEs
+        -d DIR  Extract into DIR
+/storage/emulated/0 $
+/storage/emulated/0 $
+	}
+}
