@@ -1,0 +1,12 @@
+public class Main {
+	public static void main(String[] args) {
+		// Jvdroid-main: [build];			
+//	(Agent):
+//  		(Capri Note App)),
+//		-wallet assistant agent
+//		-name-("capri"),	
+	//Use:	
+//		communicate, retreive wallet location and private key hash for multisig signing.
+//  
+	}
+}
